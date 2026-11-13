@@ -1,2 +1,2 @@
-1.0.1
+1.0.2
 https://github.com/justincua/JUSTINCUA_TOOL/raw/refs/heads/main/CuaVPSTool.exe
