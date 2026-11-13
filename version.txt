@@ -1,2 +1,2 @@
 1.0.1
-https://github.com/USER/REPO/releases/latest/download/CuaVPSTool.exe
+https://github.com/justincua/JUSTINCUA_TOOL/raw/refs/heads/main/CuaVPSTool.exe
